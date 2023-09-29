@@ -67,6 +67,7 @@ header {
 }
 
 header.sticky {
+    background: #fff;
     box-shadow: var(--box-shadow);
 }
 
