@@ -62,12 +62,11 @@ header {
     z-index: 99999;
     width: 100%;
     position: fixed;
-    backdrop-filter: blur(20px);
+    background: #fff;
     transition: .6s ease;
 }
 
 header.sticky {
-    background: #fff;
     box-shadow: var(--box-shadow);
 }
 
